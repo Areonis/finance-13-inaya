@@ -17,7 +17,7 @@ export default function Footer() {
 
       <div className={styles.footer_item}>
         <div></div>
-        <div>©2023 Собственность компанни "ОсОО Инайя".</div>
+        <div>©2024 Собственность компанни "ОсОО Инайя".</div>
       </div>
     </div>
   )
